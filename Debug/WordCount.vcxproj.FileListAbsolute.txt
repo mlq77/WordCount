@@ -1,0 +1,2 @@
+D:\vs2019\WordCount\Debug\WordCount.exe
+D:\vs2019\WordCount\Debug\WordCount.pdb
